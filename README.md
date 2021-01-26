@@ -30,7 +30,9 @@
 
 # Welcome to Premake
 
-Premake is a command line utility which reads a scripted definition of a software project, then uses it to perform build configuration tasks or generate project files for toolsets like Visual Studio, Xcode, and GNU Make. Premake's scripts are little [Lua](http://www.lua.org/) programs, so the sky's the limit!
+Premake is a command line utility which reads a scripted definition of a software project, 
+then uses it to perform build configuration tasks or generate project files for toolsets like Visual Studio, Xcode, and GNU Make.
+Premake's scripts are little [Lua](http://www.lua.org/) programs, so the sky's the limit!
 
 ```lua
 workspace "MyWorkspace"
